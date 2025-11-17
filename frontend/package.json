@@ -1,0 +1,21 @@
+{
+  "name": "x",
+  "version": "1.0.0",
+  "description": "",
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "sass": "sass --watch sass:css"
+  },
+  "devDependencies": {
+    "sass": "^1.93.3"
+  },
+  "dependencies": {
+    "bcryptjs": "^3.0.3",
+    "dotenv": "^17.2.3",
+    "jsonwebtoken": "^9.0.2",
+    "mongoose": "^8.19.4"
+  }
+}
